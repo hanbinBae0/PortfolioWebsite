@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+import { useState } from 'react'
 import {
   faJava,
   faCss3,
@@ -7,7 +7,6 @@ import {
   faJsSquare,
   faReact,
   faAndroid,
-  fa
 } from '@fortawesome/free-brands-svg-icons'
 import Loader from 'react-loaders'
 import AnimatedLetters from '../AnimatedLetters'

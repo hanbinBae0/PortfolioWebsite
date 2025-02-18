@@ -1,7 +1,6 @@
-import { useEffect, useState } from 'react'
+import { useState } from 'react'
 import {
     faJava,
-    faCss3,
     faGitAlt,
     faHtml5,
     faJsSquare,
