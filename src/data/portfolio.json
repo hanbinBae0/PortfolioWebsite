@@ -1,0 +1,22 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/logo-s.png", 
+            "title": "Portfolio Website", 
+            "description": "ReactJS, SCSS", 
+            "url": "https://www.hanbinbae.dev/"
+        },
+        {
+            "cover": "/portfolio/flappybird.png", 
+            "title": "Flappy Bird", 
+            "description": "Java, Swing", 
+            "url": "https://github.com/hanbinBae0/RockPaperScissorsGame"
+        },
+        {
+            "cover": "/portfolio/com_gawe.png", 
+            "title": "Rock Paper Scissors", 
+            "description": "Android Studio, Java", 
+            "url": "https://github.com/hanbinBae0/RockPaperScissorsGame"
+        }
+    ]
+}
